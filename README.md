@@ -18,8 +18,8 @@ This Backend Application is used for music app. In the application, users can ad
 
 ## 🔗 Feature
 
-- Create
-- Read 
+- CREATE
+- READ
 - UPDATE
 - DELETE
 
@@ -46,7 +46,6 @@ This Backend Application is used for music app. In the application, users can ad
 ```sh
   APP_PORT= Your Port
   JWT_KEYS= Your Secret Keys
-
   DB_USER = Your DB User
   DB_HOST = Your DB Host
   DB_NAME = Your DB Name
@@ -73,9 +72,6 @@ This Backend Application is used for music app. In the application, users can ad
 - [gorilla/mux](https://github.com/gorilla/mux): for handle http request
 - [Postgres](https://www.postgresql.org/): for DBMS
 
-## 💻 Deploy
-
-Link Deploy :
 
 ## 💻 End Point
 
