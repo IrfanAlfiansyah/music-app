@@ -2,10 +2,11 @@ package models
 
 import (
 	"time"
+	
 )
 
 type Music struct {
-	Music_ID  uint      `gorm:"primaryKey" json:"Music_id"`
+	Music_ID    string    `gorm:"default:uuid_generate_v4()" json:"id"`
 	Name        string    `json:"name" valid:"type(string)"`
 	Album       string    `json:"album" valid:"type(string)"`
 	AlbumArt    string    `json:"album_art"`
