@@ -77,5 +77,5 @@ This Backend Application is used for music app. In the application, users can ad
 
 Postmant Documentation :
 
-- Postman : [link](https://documenter.getpostman.com/view/19983829/2s8ZDbVfs6)
+- Postman : [link](https://documenter.getpostman.com/view/20668721/2s93XvX5Qj)
 
